@@ -37,7 +37,7 @@ button.mode {
     align-items: center;
     margin: 0;
     height: 75px;
-    width: 200px;
+    width: auto;
 }
 
 [class$="icon"]>a svg {
