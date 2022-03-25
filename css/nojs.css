@@ -1,0 +1,15 @@
+noscript{
+	color: white;
+    background-color: black;
+    display: block;
+    text-align: -webkit-center;
+    font-family: 'lucida sans';
+    font-size: 120%;
+    height: 1000px;
+}
+
+span {
+		color: yellow;
+    text-align: -webkit-center;
+
+}
