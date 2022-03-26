@@ -174,10 +174,10 @@
    color: #007ffd;
  }
  .FuckThisShit{
-   text-decoration: line-through;
+   text-decoration: none;
  }
      .noone{
-       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-family: 'Righteous', cursive;
      }
      .hamburger {
        padding: 25px;
